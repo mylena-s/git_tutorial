@@ -13,7 +13,7 @@ sample_urls:
 # and space needed for this tutorial. The maximum number of reads is 100000
 # which is the total number of reads available in the subsampled files we
 # are using for this course
-max_reads: 25000
+max_reads: 20000
 
 # Genome id to align to. Should match with an entry in "genomes" below.
 genome_id: ST399
