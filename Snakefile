@@ -159,7 +159,7 @@ rule align_to_genome:
 
 rule sort_bam:
     """
-    Sort a bam file.
+    Sort a bam file after alignment.
     """
     output:
         "{prefix}.sorted.bam"
